@@ -35,6 +35,20 @@
 
 ---
 
-📫 Reach me at: **jadhavharshali162@gmail.com**
+### 📊 GitHub Stats
+
+![Harshali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshalijadhav162&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalijadhav162&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harshalijadhav162&theme=radical&border_radius=5)
 
 ---
+
+### 🎯 Contribution Graph (Optional Banner)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harshalijadhav162&theme=github-compact)
+
+---
+
+📫 Reach me at: **jadhavharshali162@gmail.com**
