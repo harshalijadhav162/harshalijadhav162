@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshali-jadhav162/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadhavharshali162@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)]([https://your-portfolio-link.co](https://harshalijadhav162.github.io/Portfolio-Website/)m)
 
 ---
 
